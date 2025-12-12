@@ -27,4 +27,4 @@ I'll definitely share them here once they are ready!
 
 | Twitter | Gmail |
 | :--- | :--- |
-| [Connect Here]([Your_LinkedIn_URL](https://x.com/positivepeanut1)) | barnas.nikolaus@gmail.com |
+| [Connect Here](https://x.com/positivepeanut1) | barnas.nikolaus@gmail.com |
