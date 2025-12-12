@@ -7,6 +7,8 @@ am always striving to improve my coding skills.
 
 I'm currently studying **Artificial Intelligence at JKU Linz**.
 
+I am particularly excited about the intersection of AI and game development—specifically exploring how reinforcement learning can be applied to create challenging, adaptive agents for complex environments, especially strategically challenging board games.
+
 ---
 
 ### Featured Project: Doodle Ball
