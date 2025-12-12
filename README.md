@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there! 
 
-<!--
-**NikolausBarnas/NikolausBarnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A bit about me
 
-Here are some ideas to get you started:
+I'm Nikolaus, welcome to my GitHub page. I love sharing my projects and
+am always striving to improve my coding skills. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+While I'm studying Artificial Intelligence at JKU Linz I am excited
+about working on DoodleBall with my friends, a 2D Physics Puzzle
+coming to Steam in 2026. 
+
+### What I'm 
+
