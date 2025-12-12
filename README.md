@@ -11,7 +11,7 @@ I'm currently studying **Artificial Intelligence at JKU Linz**.
 
 ### Featured Project: Doodle Ball
 
-I am excited about working on **DoodleBall** with my friends, a 2D Physics Puzzle coming to Steam in 2026. Click the image to see the project repo!
+I am excited about working on **DoodleBall** with my friends, a 2D Physics Puzzle coming to Steam in 2026. 
 
 [![DoodleBall Demo](https://github.com/NikolausBarnas/NikolausBarnas/blob/master/DoodleBall1.gif?raw=true)](https://github.com/YourOrganization/DoodleBallRepo)
 
