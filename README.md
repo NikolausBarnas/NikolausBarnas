@@ -1,19 +1,30 @@
-## Hi there! 
+## Hi there! I'm Nikolaus.  
 
 ### A bit about me
 
-I'm Nikolaus, welcome to my GitHub page. I love sharing my projects and
+Welcome to my GitHub page! I love sharing my projects and
 am always striving to improve my coding skills. 
 
-While I'm studying Artificial Intelligence at JKU Linz I am excited
-about working on DoodleBall with my friends, a 2D Physics Puzzle
-coming to Steam in 2026. 
+I'm currently studying **Artificial Intelligence at JKU Linz**.
 
-![DoodleBall](https://github.com/NikolausBarnas/NikolausBarnas/blob/master/DoodleBall1.gif?raw=true)
+---
+
+### Featured Project: Doodle Ball
+
+I am excited about working on **DoodleBall** with my friends, a 2D Physics Puzzle coming to Steam in 2026. Click the image to see the project repo!
+
+[![DoodleBall Demo](https://github.com/NikolausBarnas/NikolausBarnas/blob/master/DoodleBall1.gif?raw=true)](https://github.com/YourOrganization/DoodleBallRepo)
+
+---
 
 ### What I'm working on
 
-Apart from DoodleBall, I'm keeping my personal prjects private at the moment.
-I'll definetly share them when I have MVPs ready, for now they're slowly progressing towards that goal
+Apart from finishing up our first indie title, I'm focused on my studies. 
+My personal projects are currently private as they slowly progress towards their MVPs. 
+I'll definitely share them here once they are ready!
 
-I'm currently focused on studying and finishing developing my first indie title. 
+### Let's Connect! 
+
+| Twitter | Gmail |
+| :--- | :--- |
+| [Connect Here]([Your_LinkedIn_URL](https://x.com/positivepeanut1)) | barnas.nikolaus@gmail.com |
