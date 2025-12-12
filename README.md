@@ -14,7 +14,8 @@ adaptive agents for complex environments, especially strategically challenging b
 
 ### Featured Project: Doodle Ball
 
-I am excited about working on **DoodleBall** with my friends, a 2D Physics Puzzle coming to Steam in 2026. 
+I am excited about working on **DoodleBall** with my friends, a 2D Physics Puzzle coming to Steam in 2026, where
+you'll need to collect all items in a level by drawing using different kinds of pencils. :)
 
 [![DoodleBall Demo](https://github.com/NikolausBarnas/NikolausBarnas/blob/master/DoodleBall1.gif?raw=true)](https://github.com/YourOrganization/DoodleBallRepo)
 
