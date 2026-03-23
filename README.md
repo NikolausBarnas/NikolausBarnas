@@ -31,4 +31,4 @@ I'll definitely share them here once they are ready!
 
 | Twitter | Gmail |
 | :--- | :--- |
-| [Connect Here](https://x.com/positivepeanut1) | barnas.nikolaus@gmail.com |
+| [Connect Here](https://x.com/debugfox) | barnas.nikolaus@gmail.com |
